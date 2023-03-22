@@ -1,4 +1,36 @@
+.table-moda-cabecalho{
+    background-color: #BB86FC;
+}
 
+.table-casa-cabecalho{
+    background-color: #00C4B4;
+}
+
+.casa th,
+.casa td {
+    padding: 5px;
+    
+}
+.table-moda-produto,
+.table-casa-produto{
+    background-color: #444250;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 .cabecalho-produtos-moda {
 background-color: #BB86FC;
 color: white;
@@ -11,4 +43,4 @@ padding: 10px;
 
 .cabecalho-produtos-casa {
 background-color: #00C4B4;
-}
+} */
